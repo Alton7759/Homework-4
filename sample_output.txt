@@ -1,0 +1,112 @@
+
+Charlie Brown's shopping cart contains:
+	"00611508524006",  "Boston American",  "Gum Tims Lump Of Coal",  9.15
+	-------------------------
+	Total  $9.15
+
+Lucy van Pelt's shopping cart contains:
+	"00030768009670",  "Sundown Naturals",  "Sundown Naturals Liquid-filled Calcium 1200mg Softgels - 60 Ct",  2.12
+	"00070327012116",  "Paradise",  "Pineapple Red Wedges",  16.57
+	"00073377801839",  "Earth Therapeutics",  "Earth Therapeutics Sleep Mask Blue - 1 Mask",  9.59
+	"00086449903065",  "Crystal",  "Crystal Body Deodorant Towelettes - 6 Towelettes",  8.39
+	"00092657016985",  "Blue Q",  "Blue Q Tea - Oolong With Orange - 16 Bags",  0.61
+	"00216210900003",  "Applegate",  "Applegate Naturals Cheddar Cheese",  23.54
+	"00710069086036",  "Gefen",  "Cracker Ff Herb & Grlc",  13.05
+	"00852697001422",  "Happybaby",  "Happybaby Organic Baby Food 3 Gobble Gobble  - 7+months",  25.92
+	"00885229000198",  "Good4u",  "Bev 4flvr Palt 1512pc",  7.09
+	-------------------------
+	Total  $106.88
+
+Peppermint Patty's shopping cart contains:
+	"00021908501871",  "Cascadian Farms",  "Potato Spud Puppies",  10.25
+	"00036192122930",  "Santa Cruz",  "Applesauce Strwbry Org",  20.69
+	"00051500280645",  "Hungry Jack",  "Hungry Jack Complete Buttermilk Pancake & Waffle Mix",  14.54
+	"00070596000647",  "Ultra Glow",  "Ultra Glow Black Soap",  21.19
+	"00079400266200",  "Degree",  "Degree Body Responsive Invisible Solid Deodorant Fresh",  11.95
+	"00631723300704",  "Divina",  "Pepperoncini Greek",  10.59
+	"00763795931415",  "Hallmark",  "Hallmark Plates Nfl Chicago Bears - 8 Ct",  5.51
+	"00813608012401",  "Wisconsin",  "Cheese Muenster Jalapeno",  9.98
+	"00856414001092",  "Mayte",  "Mayte Platanitos Plantain Chips Garlic",  14.14
+	"00898425001333",  "Lifestyle Foods",  "Lifestyle Foods Grilled Veggies And Hummus Sandwich",  24.09
+	-------------------------
+	Total  $142.93
+
+Red Baron's shopping cart contains:
+	"00025317533003",  "Applegate Farms",  "Hotdog Uncrd Big Apple",  12.57
+	"00037466065908",  "Lindt",  "Truffle Mini Egg Clpst 24",  22.51
+	"00038000291210",  "Rice Krispies",  "Kellogg's Rice Krispies Cereal",  17.85
+	"00075457129000",  "Garelick Farms",  "Garelick Farms Dairy Pure Milk 1% Lowfat",  9.64
+	"00688267039317",  "Nature's Promise",  "Nature's Promise Naturals Fresh Brown Eggs Omega 3 Large",  24.66
+	"00835841005255",  "Fiber One",  "Fiber One Bread Country White",  3.87
+	"09073649000493" (pumpkin pie) not found, the item is free!
+	-------------------------
+	Total  $91.10
+
+Schroeder's shopping cart contains:
+	"00016055456747",  "Buried Treasure",  "Buried Treasure Children's Complete Citrus - 16 Fl Oz",  10.47
+	"00021908743325",  "Cascadian Farm",  "Cascadian Farm Organic Granola Cereal Maple Brown Sugar",  12.53
+	"00072591002251",  "Log House",  "Chip Pnut Bttr",  9.74
+	"00084783499008",  "Dr. Christopher's Formulas",  "Christopher's Cayenne Heat Massage Oil - 4 Fl Oz",  23.25
+	"00219019100001",  "Nature's Promise",  "Nature's Promise Laura's Lean All Natural Ground Beef 92% Lean",  14.06
+	"00637876981630",  "Piacci",  "Piacci Fior-di-latte Ovoline Fresh Mozzarella",  14.67
+	"00688267138973",  "Simply Enjoy",  "Simply Enjoy Acai Berry Loose Organic Green Tea",  20.41
+	"00716237183507",  "Giovanni Hair Care Products",  "Giovanni D:tox System Facial Cleansing Towelettes - 30 Towelettes",  15.82
+	"00886911000052",  "East Riding Farms",  "Pastry Popover Bowl Size",  7.55
+	"00890692002020",  "Beaute De Maman",  "Beaute De Maman Stretch Mark Cream",  16.55
+	-------------------------
+	Total  $145.05
+
+Woodstock's shopping cart contains:
+	"00018000001958",  "Pillsbury",  "Pillsbury Cinnamon Mini-bites With Icing - 24 Ct",  17.10
+	"00021000778690",  "Kraft",  "Kraft Velveeta Cheesy Mashed Potatoes",  3.63
+	"00033674100066",  "Nature's Way",  "Nature's Way Forskohlii - 60 Ct",  6.11
+	"00041331092609",  "Goya",  "Frz Spnsh Omelet",  16.84
+	"00041520010667",  "Careone",  "Careone Mouth Wash Alcohol Free Light Mint",  11.21
+	"00070177862640",  "Twinings Of London",  "Twinings K-cup Tea Sampler - 10 Ct",  10.94
+	"00071758100823",  "Fiesta",  "Ssnng Pepper New Mexico",  21.24
+	"00216079600007",  "Usda Meat",  "Lamb Chops Loin",  11.08
+	"00217039300005",  "Usda Meat",  "Top Butt Filet Steak",  22.74
+	"00636874220338",  "Eo",  "Face Exfoliate",  18.74
+	"00688267133442",  "Ahold",  "Ahold Extra Bold 100% Arabica Coffee Single Serving Cups - 12 Ct",  20.06
+	"00688267138973",  "Simply Enjoy",  "Simply Enjoy Acai Berry Loose Organic Green Tea",  20.41
+	"00790555051526",  "Walnut Acres",  "Walnut Acres Organic Whole Black Beans",  24.24
+	"00859013004327",  "Wissotsky",  "Tea Nana Mint Dsp 60pc",  22.05
+	"00891475001421",  "Trujoy Sweets",  "Candy Fruit Chews",  20.94
+	-------------------------
+	Total  $247.33
+
+
+
+
+
+Re-ordering grocery items the store is running low on.
+
+ 1:  {"00025317533003",  "Applegate Farms",  "Hotdog Uncrd Big Apple",  12.57} 
+        only 8 remain in stock which is 7 unit(s) below reorder threshold (15), re-ordering 20 more
+
+ 2:  {"00041331092609",  "Goya",  "Frz Spnsh Omelet",  16.84} 
+        only 9 remain in stock which is 6 unit(s) below reorder threshold (15), re-ordering 20 more
+
+ 3:  {"00070596000647",  "Ultra Glow",  "Ultra Glow Black Soap",  21.19} 
+        only 12 remain in stock which is 3 unit(s) below reorder threshold (15), re-ordering 20 more
+
+ 4:  {"00072591002251",  "Log House",  "Chip Pnut Bttr",  9.74} 
+        only 11 remain in stock which is 4 unit(s) below reorder threshold (15), re-ordering 20 more
+
+ 5:  {"00073377801839",  "Earth Therapeutics",  "Earth Therapeutics Sleep Mask Blue - 1 Mask",  9.95} 
+        only 12 remain in stock which is 3 unit(s) below reorder threshold (15), re-ordering 20 more
+
+ 6:  {"00075457129000",  "Garelick Farms",  "Garelick Farms Dairy Pure Milk 1% Lowfat",  9.64} 
+        *** no longer sold in this store and will not be re-ordered
+
+ 7:  {"00219019100001",  "Nature's Promise",  "Nature's Promise Laura's Lean All Natural Ground Beef 92% Lean",  14.06} 
+        only 13 remain in stock which is 2 unit(s) below reorder threshold (15), re-ordering 20 more
+
+ 8:  {"00688267133442",  "Ahold",  "Ahold Extra Bold 100% Arabica Coffee Single Serving Cups - 12 Ct",  20.06} 
+        only 8 remain in stock which is 7 unit(s) below reorder threshold (15), re-ordering 20 more
+
+ 9:  {"00688267138973",  "Simply Enjoy",  "Simply Enjoy Acai Berry Loose Organic Green Tea",  20.41} 
+        only 8 remain in stock which is 7 unit(s) below reorder threshold (15), re-ordering 20 more
+
+10:  {"00763795931415",  "Hallmark",  "Hallmark Plates Nfl Chicago Bears - 8 Ct",  5.51} 
+        only 11 remain in stock which is 4 unit(s) below reorder threshold (15), re-ordering 20 more
